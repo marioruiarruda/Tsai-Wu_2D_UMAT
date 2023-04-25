@@ -7,6 +7,10 @@
 
 !     ---------UMAT ONLY FOR PLANE ELEMENST WITH TSAI-WU DAMAGE---------
 
+!     #COPYRIGHT 2021 BY MÁRIO RUI TIAGO ARRUDA
+!     ALL RIGHTS RESERVED. NO PART OF THIS SUBROUTINE MAY BE REPRODUCED OR 
+!     USED IN ANY MANNER WITHOUT WRITTEN PERMISSION OF THE COPYRIGHT OWNER.
+
 ! When using this UMAT in papers, always cite these works https://doi.org/10.1016/j.jcomc.2021.100122
 ! and always provide credit to the original authors
 
